@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.thefinestartist:ytpa:1.2.1@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d3c9a0664b651a13848612046187be1c/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d3c9a0664b651a13848612046187be1c/jars/classes.jar!/" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d3c9a0664b651a13848612046187be1c/jars/libs/YouTubeAndroidPlayerApi.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a7abf7d03442be2ed9fd56a13154763/jars/libs/YouTubeAndroidPlayerApi.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a7abf7d03442be2ed9fd56a13154763/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a7abf7d03442be2ed9fd56a13154763/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

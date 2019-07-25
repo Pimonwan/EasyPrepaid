@@ -30,7 +30,7 @@ class Menu : AppCompatActivity() {
 
         // button
         cart_ic_image.setOnClickListener{
-            startActivity(Intent(applicationContext, Menu::class.java))
+            startActivity(Intent(applicationContext, SummaryPriceActivity::class.java))
         }
 
 
