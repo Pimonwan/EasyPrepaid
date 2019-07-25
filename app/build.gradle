@@ -75,8 +75,6 @@ dependencies {
 // MPAndroidChart - chart library for Android --- End
 
 
-
-
 // -----------------------------------
 
 dependencies {
@@ -88,4 +86,11 @@ dependencies {
 
 dependencies {
     implementation 'androidx.legacy:legacy-support-v4:+'
+
+    implementation 'me.dm7.barcodescanner:zxing:1.9'
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:+'
+    implementation 'androidx.constraintlayout:constraintlayout:+'
 }
