@@ -3,6 +3,10 @@
           package="com.codemobiles.myfirebase.easyprepaid">
 
     <uses-permission android:name="android.permission.INTERNET"/>
+<<<<<<< HEAD
+=======
+    <uses-permission android:name="android.permission.CAMERA"/>
+>>>>>>> 0d648b6eff26a4053001b30dee6cb121359d44ee
 
     <application
             android:allowBackup="true"
@@ -11,7 +15,11 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
+<<<<<<< HEAD
         <activity android:name=".SummaryPriceActivity">
+=======
+        <activity android:name=".ScanActivity">
+>>>>>>> 0d648b6eff26a4053001b30dee6cb121359d44ee
         </activity>
         <activity android:name=".MainActivity">
             <intent-filter>
